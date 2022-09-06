@@ -2,6 +2,7 @@
 Ultrasonic Sensor Ultrasonic Sensors measure the distance to the target by measuring the time between the emission and reception. An optical sensor has a transmitter and receiver, whereas an ultrasonic sensor uses a single ultrasonic element for both emission and reception.
 
 
+   [![Watch the video](https://img.youtube.com/vi/9ah-PgeqsfA/0.jpg)](https://youtu.be/9ah-PgeqsfA)
 
      #define echoPin 2 // attach pin D2 Arduino to pin Echo of HC-SR04
      #define trigPin 3 //attach pin D3 Arduino to pin Trig of HC-SR04
